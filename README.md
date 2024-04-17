@@ -1,2 +1,2 @@
 # oh-my-posh
-my config
+My config for powershell core on macOS, based on the catppuccin theme
